@@ -21,9 +21,15 @@ Tools - ***Arduino***: an open-source electronics platform based on easy-to-use 
 <br/>
  
 
-<div align=middle><img src="https://user-images.githubusercontent.com/93479899/140425232-c54842d2-64da-475c-a6b1-5f7771858b60.gif" width="300px">
-
+<div align=middle><img src="https://user-images.githubusercontent.com/93479899/140508429-5582a190-c5d6-409b-b87b-4c49052a6b93.jpg" width="400px"> <img src="https://user-images.githubusercontent.com/93479899/140508441-88c84f17-920c-4bee-99b4-5b2677c6b6bf.jpg" width="400px">
  
+  
+
+  <div align=middle> <img src="https://user-images.githubusercontent.com/93479899/140507895-93649a52-487b-433d-840f-d3cba6873405.gif" width="400px"> <img src="https://user-images.githubusercontent.com/93479899/140508458-4aca89e6-a527-4efc-84c6-fe7d27a4ff3c.jpg" width="400px">
+    
+
+<div align=middle><img src="https://user-images.githubusercontent.com/93479899/140425232-c54842d2-64da-475c-a6b1-5f7771858b60.gif" width="400px"> <img src="https://user-images.githubusercontent.com/93479899/140508441-88c84f17-920c-4bee-99b4-5b2677c6b6bf.jpg" width="400px">
+
 <div align=left>
   
 <br/>▄█ **Physical computing projects**
